@@ -1,6 +1,6 @@
 # ilost
 
-A new Flutter project.
+A new Flutter project : iLost.
 
 ## Getting Started
 
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![ilost](https://user-images.githubusercontent.com/120422460/231525949-af53d613-df0d-4734-ab99-43dd1e8b19ff.jpeg)
